@@ -398,7 +398,4 @@ public class SeMethodsCommon extends Reporter implements WdMethodsCommon{
 		}
 	}
 
-
-
-
 }

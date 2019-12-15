@@ -1,9 +1,9 @@
 package commonMethods;
 
 import java.net.MalformedURLException;
+import java.util.NoSuchElementException;
 
 import org.openqa.selenium.ElementNotVisibleException;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 
 public interface WdMethodsCommon {
